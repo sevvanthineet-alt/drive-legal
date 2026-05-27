@@ -1,0 +1,6 @@
+{
+  "name": "DriveLegal - AI Traffic Law & Public Safety System",
+  "description": "A government-grade cyber-governance platform for traffic safety, regulatory compliance, and instant AI legal assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
